@@ -1,0 +1,1 @@
+Learning C should be fun and worthwhile :) 
